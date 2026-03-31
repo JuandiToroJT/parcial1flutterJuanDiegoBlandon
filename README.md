@@ -4,7 +4,7 @@
 
 Este es un proyecto de **Flutter** desarrollado para el parcial 1 de la clase de programación para dispositivos móviles en la universidad de caldas, en la carrera ingeniería en informática, que permite **listar, agregar, editar y eliminar productos** consumiendo una API de ejemplo.
 
-> ⚠️ Nota: Originalmente se iba a usar [Fake Store API](https://fakestoreapi.com/), pero estaba caída, así que se utilizó [DummyJSON](https://dummyjson.com/) para la entrega y pruebas.
+> ⚠️ Nota: Originalmente se iba a usar [Fake Store API](https://fakestoreapi.com/), pero estaba caída, así que se utilizó [DummyJSON](https://dummyjson.com/) que funciona exactamente igual para la entrega y pruebas.
 
 ---
 
